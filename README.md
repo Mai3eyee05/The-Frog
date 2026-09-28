@@ -1,4 +1,4 @@
-#  The Frog — Polycarbonate Strip-Based Jumping Robot
+#  The Frog - Polycarbonate Strip-Based Jumping Robot
 
 A mechanically actuated jumping robot designed and fabricated using **polycarbonate strips as energy-storage elements**. The project investigates how elastic energy stored in slender flexible strips can be converted into rapid jumping motion.
 
